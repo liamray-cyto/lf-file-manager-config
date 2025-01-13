@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# add more doc here
+
 case "$1" in
     *.zip)
         # Use zipinfo to display the contents of the zip file
